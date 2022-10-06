@@ -7,4 +7,3 @@
 4. 支援多種分類預測演算方法  
 
 
-![image](https://github.com/Louislin0128/Surgery-Time-Prediction-System/blob/main/tt.png)
