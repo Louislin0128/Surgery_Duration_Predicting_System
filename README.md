@@ -6,3 +6,5 @@
 3. 簡單易懂的系統介面設計  
 4. 支援多種分類預測演算方法  
 
+
+![image](https://github.com/Louislin0128/Surgery-Time-Prediction-System/blob/main/tt.png)
