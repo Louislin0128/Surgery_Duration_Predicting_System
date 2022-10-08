@@ -7,16 +7,16 @@
 
 系統規劃👍
 ---------------
-### 系統概念模型
+### 🎶系統概念模型🏠
 <img src="https://github.com/Louislin0128/Surgery_Duration_Predicting_System/blob/main/src/%E7%B3%BB%E7%B5%B1%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B.png" width="600">
 
-### 功能架構
+### ✨功能架構✨
 <img src="https://github.com/Louislin0128/Surgery_Duration_Predicting_System/blob/main/src/%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%A7%8B%E5%9C%96.png" width="600">
 
-### 系統架構
+### 🤩系統架構🎖️
 <img src="https://github.com/Louislin0128/Surgery_Duration_Predicting_System/blob/main/src/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%9C%96.png" width="600">
 
-### 系統UI/UX介面
+### 系統UI/UX介面❤️🧡💛💚💙💜
 <img src="https://github.com/Louislin0128/Surgery_Duration_Predicting_System/blob/main/src/UIUX.png" width="600">
 
 ☺️系統特色😻
@@ -46,7 +46,7 @@ MainPagePanel.bat | 預測頁面
 
 ⚠️ 注意事項
 -------
-系統版本最低要求Java JDK 11，測試版本為Java JDK 17.0.2
+系統最低要求Java JDK 11，編譯與執行測試版本為Java JDK 17.0.2
 
 
 
